@@ -44,6 +44,8 @@
 Nossa equipe irá conferir a sua solicitação e enviará uma confirmação para o seu e-mail.
 </p> 
 <p>aproveite agora mesmo nossa dica em destaque:</p>
+<div id="destaqueObrigado">
+<div id="lacinho"><img src="Multimidia/lacinho.png">
 <p>
 <img src="Multimidia/anuncio_pet3.jpg" alt="Anuncio Pet">
 Lorem ipsum dolor sit <br> amet consectetur adipisicing elit. 
@@ -55,6 +57,7 @@ Libero maiores porro quaerat obcaecati, ipsum ab praesentium, sint rem commodi q
 Tenetur perferendis eaque a vel architecto necessitatibus quia minus?</p>
 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat soluta eos quam distinctio quasi fugiat maiores quas iusto similique ducimus, 
 cum facilis magni odio dolorum a veritatis eligendi tempore! Assumenda.</p>
+</div>
 </main>
 <footer>
 <p>Atendimento: <a href="mailto:atendimento@meuamigocao.com.br">atendimento@meuamigocao.com.br</a>
