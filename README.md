@@ -7,6 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Document</title>
 <script src="interacao/html5shiv.min.js"></script>
+<link rel="stylesheet" href="estilos/principal.css">
 </head>
 <body>
 <a href="index.html">Home</a>
