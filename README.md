@@ -9,7 +9,7 @@
 <script src="interacao/html5shiv.min.js"></script>
 <link rel="stylesheet" href="estilos/principal.css">
 </head>
-<body>
+<body id="obrigado">
 <header>
 <h1>Meu amigo cão - Petshop</h1>
 <div id="anuncio">
@@ -25,7 +25,7 @@
         <a href="#"><img src="Multimidia/ms-pinterest.gif" alt="pinterest"></a>
         <a href="#"><img src="Multimidia/ms-gmais.gif" alt="google+"></a>
         
-    </figure>
+</figure>
 </section>
     </header>
     <nav>
